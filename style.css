@@ -17,11 +17,20 @@ body{
     justify-content: center;
 }
 
+.block{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
 .header{
     text-align: center;
     margin-top: 200px;
     font-size: 32px;
-    color: darkblue;
+    color: dark;
 }
 
 .paragraf{
